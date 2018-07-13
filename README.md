@@ -1,5 +1,5 @@
 # Discounts
-## Shopify Data Engineering Challenge - Fall 2018 🍂
+## Shopify Back End Developer Challenge - Fall 2018 🍂
 
 Discounts is a simple discount-applier built with Python. Throw any json file with cart info at it and it'll take care of the rest.
 
